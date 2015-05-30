@@ -1,7 +1,7 @@
 Ordenação de Strings em C
 ===========
 [![Build Status](https://img.shields.io/travis/joyent/node/v0.6.svg)](http://github.com/Rodrigo54/ordenacao_de_strings)
-[![Version 0.5](https://img.shields.io/badge/version-0.5-blue.svg)](http://github.com/Rodrigo54/ordenacao_de_strings)
+[![Version 0.5](https://img.shields.io/badge/version-0.2-blue.svg)](http://github.com/Rodrigo54/ordenacao_de_strings)
 [![Version 0.5](https://img.shields.io/badge/requirements-Code%3A%3ABlocks-orange.svg)](http://www.codeblocks.org/downloads)
 
 Atividade feita para obtenção de nota parcial na materia de `Algoritmos e Estrutura de Dados 2`.
