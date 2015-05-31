@@ -78,3 +78,16 @@ Temporary Items
 # Debug files
 *.dSYM/
 
+#################  
+## Code::Blocks  
+#################  
+[Bb]in/*  
+[Oo]bj/  
+
+*.mode*  
+*.app/  
+*.pyc  
+*.log  
+
+*.depend  
+*.layout
